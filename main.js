@@ -18,9 +18,6 @@ window.addEventListener('load', () => {
     });
 });
 
-var audio = document.getElementById("bg-music");
-audio.volume = 0.3; // volume low karne ke liye
-
 
 // animation timeline
 const animationTimeline = () => {
